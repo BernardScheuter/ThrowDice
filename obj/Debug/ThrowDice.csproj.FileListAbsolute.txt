@@ -1,0 +1,10 @@
+C:\Users\kenny\source\repos\BernardScheuter\ThrowDice Windows\ThrowDice\bin\Debug\ThrowDice.exe.config
+C:\Users\kenny\source\repos\BernardScheuter\ThrowDice Windows\ThrowDice\bin\Debug\ThrowDice.exe
+C:\Users\kenny\source\repos\BernardScheuter\ThrowDice Windows\ThrowDice\bin\Debug\ThrowDice.pdb
+C:\Users\kenny\source\repos\BernardScheuter\ThrowDice Windows\ThrowDice\obj\Debug\ThrowDice.csprojAssemblyReference.cache
+C:\Users\kenny\source\repos\BernardScheuter\ThrowDice Windows\ThrowDice\obj\Debug\ThrowDice.frmMain.resources
+C:\Users\kenny\source\repos\BernardScheuter\ThrowDice Windows\ThrowDice\obj\Debug\ThrowDice.Properties.Resources.resources
+C:\Users\kenny\source\repos\BernardScheuter\ThrowDice Windows\ThrowDice\obj\Debug\ThrowDice.csproj.GenerateResource.cache
+C:\Users\kenny\source\repos\BernardScheuter\ThrowDice Windows\ThrowDice\obj\Debug\ThrowDice.csproj.CoreCompileInputs.cache
+C:\Users\kenny\source\repos\BernardScheuter\ThrowDice Windows\ThrowDice\obj\Debug\ThrowDice.exe
+C:\Users\kenny\source\repos\BernardScheuter\ThrowDice Windows\ThrowDice\obj\Debug\ThrowDice.pdb
